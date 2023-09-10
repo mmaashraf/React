@@ -1,0 +1,25 @@
+Learning Objective: Understand react ecosystem better and build a project.
+
+install nodeJS
+-- go to https://nodejs.org/en website, and download latest version.
+
+Using version 18 LTS
+
+install NPM for package management.
+-- I can use the following command for upgrading to latest using `npm install -g npm@latest`
+
+output
+"
+(base) ashraf@Ashrafs-MacBook-Pro-3 React-Project % node --version
+v18.17.1
+(base) ashraf@Ashrafs-MacBook-Pro-3 React-Project % npm install -g npm
+
+removed 12 packages, and changed 76 packages in 1s
+
+28 packages are looking for funding
+  run `npm fund` for details
+(base) ashraf@Ashrafs-MacBook-Pro-3 React-Project % npm -v
+10.1.0
+(base) ashraf@Ashrafs-MacBook-Pro-3 React-Project % 
+"
+
