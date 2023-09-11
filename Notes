@@ -23,3 +23,42 @@ removed 12 packages, and changed 76 packages in 1s
 (base) ashraf@Ashrafs-MacBook-Pro-3 React-Project % 
 "
 
+---
+to run a application of specific version. 
+download the artificacts
+npm install to get the libraries & dependencies installed
+npm run dev 
+---------
+Components
+1. Build a React Application from scratch.
+React EcoSystem Tools:-
+2. Redux
+3. Thunk
+4. Reselect
+5. Styled-Components
+6. Testing the ecosystem
+----------
+
+OverView of tools
+
+Redux:  purpose is to manage & modify state of the application using flux.
+
+Thunk: separate the side-effect(network reqyests) of changes.
+
+Reselect: Abstract the state's structure.
+
+Styled-Components: Manage the styling of components instead of a CSS file.
+----------
+
+Ok, To really understand the foundations of React, I have decided to complete the 'React Basics' Course by Meta (The creators themselves).
+
+Taking my notes on Notion. 
+------------------------------------------------------------------------------------------------------------------------
+<PLACEHOLDER .. ADD CONTENT LATER>
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
