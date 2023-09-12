@@ -1,15 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-
-function  Header(){
-  return <h1> Hello world!! This is Ashraf! <br></br>  This is the Header react functional component</h1>
-}
+import Heading from './Heading'
 
 function App() {
   return ( 
     <div className="App"> 
       This is the starting code for 'App' react component. Below is the Header component.
-      <Header/> 
+      <Heading/> 
     </div> 
   ); 
 }
